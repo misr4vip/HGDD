@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">HGDD</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Sign Up</string>
+    <string name="et_Email">Email</string>
+    <string name="et_firstName">First Name</string>
+    <string name="et_LastName">Last Name</string>
+    <string name="et_Pwd">Password</string>
+    <string name="et_RePwd">Confirm Password</string>
+    <string name="btn_Cancel">Cancel</string>
+    <string name="title_activity_user">UserActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_save">Save</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_devices">Devices</string>
+    <string name="menu_brands">Brands</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_logout">Log out</string>
+    <string name="et_Cat_name">Cateogry Name</string>
+    <string name="et_brand_name">Brand Name</string>
+    <string name="et_prod_name">Product Name</string>
+    <string name="et_prod_price">Product Price</string>
+    <string name="title_activity_main_user">MainUserActivity</string>
+    <string name="et_property_name">Property Name</string>
+    <string name="et_property_value">Propert Value</string>
+
+
+</resources>
